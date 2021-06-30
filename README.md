@@ -12,6 +12,5 @@ I'm a software engineer and computer science student. After entering university,
 
 You can check out my projects and also you can find me on [Linkedin](https://www.linkedin.com/in/stephen-leonardo/). I'm always open to interesting conversations and collaboration.
 
-Credit: [chiphuyen](https://github.com/chiphuyen)
 
 Last Edited on: 2021-06-30
