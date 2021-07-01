@@ -4,7 +4,7 @@
 **StephenLeonardo/StephenLeonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm a software engineer and computer science student. After entering university, my passion has been set to Machine Learning and AI which I've been studying a lot recently.
+I'm a software engineer and student of computer science. After entering university, my passion has been set to Machine Learning and AI which I've been studying a lot recently.
 
 ### A few quick facts
 - 🔭 I'm currently working with .NET & .NET Core, Django, React.js, Tensorflow, etc.
