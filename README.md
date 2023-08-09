@@ -1,17 +1,9 @@
-### Hi there 👋
+## About Me
 
-<!--
-**StephenLeonardo/StephenLeonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Hey there,
 
-I'm a software engineer and student of computer science. After entering university, my passion has been set to Machine Learning and AI which I've been studying a lot recently.
+I'm a backend engineer with over three years of hands-on experience, specializing in crafting robust solutions for large customer-facing applications. My toolkit includes expertise in **Go**, **Python**, **SQL**, **Redis**, and navigating cloud environments like **GCP** and **AWS**.
 
-### A few quick facts
-- 🔭 I'm currently working with .NET & .NET Core, Django, React.js, Tensorflow, etc.
-- 📡 Interested in anything AI or Machine Learning related.
-- 📖 I'm an CompSci undergraduate in Binus University, expected to graduate in 2022!
+What really fuels my passion for this role is knowing that the code I create isn't just lines on a screen – it has the power to touch the lives of millions of people worldwide. It's the impactful nature of the work that keeps me driven and excited to take on new challenges in the tech world.
 
-You can check out my projects and also you can find me on [Linkedin](https://www.linkedin.com/in/stephen-leonardo/). I'm always open to interesting conversations and collaboration.
-
-
-Last Edited on: 2021-07-01
+Let's connect and collaborate on some amazing projects!
